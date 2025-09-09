@@ -203,8 +203,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@domain.com  
+- **Author**: Manuela Imbriani
+- **Email**: m.imbriani@isti.cnr.it
 - **Institution**: ISTI-CNR
 - **Course**: Advanced Computer Science
 
